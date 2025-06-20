@@ -25,6 +25,8 @@ python main.py
 
 Follow the on-screen menu to select options and customize output.
 
+![Menu screenshot](menu.png)
+
 ## Requirements
 
 * Python 3.x
